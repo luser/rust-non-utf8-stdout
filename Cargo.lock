@@ -1,0 +1,4 @@
+[root]
+name = "rust-non-utf8-stdout"
+version = "0.1.0"
+
